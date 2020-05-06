@@ -13,7 +13,7 @@ config/MySourceConnector.properties
 ```
 
 
-## Generate this base project using Maven (example below)
+## Generate a base project using Maven (example below)
 
 ```
 mvn archetype:generate -B \
